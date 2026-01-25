@@ -15,32 +15,33 @@ df = pd.DataFrame(data)
 
 
 #--------UNIT-1--------
-# print(df.head())
+print(df.head())
 
-# print(df.tail())
+print(df.tail())
 
-# print("information\n",df.info())
+print("information\n",df.info())
 
-# print("describe\n",df.describe())
+print("describe\n",df.describe())
 
-# print(df.dtypes)
+print(df.dtypes)
 
-# print(df.columns)
+print(df.columns)
 
-# print(df.isnull().sum())
+print(df.isnull().sum())
 
-# print(df.nunique())
+print(df.nunique())
 
-# print(df['%Status'].value_counts())
+print(df['%Status'].value_counts())
 
-# cat_colums = df.select_dtypes(include=object).columns
+cat_colums = df.select_dtypes(include=object).columns
 
-# num_colums = df.select_dtypes(include=['int64','float64']).columns
+num_colums = df.select_dtypes(include=['int64','float64']).columns
 
-# print(cat_colums)
+print(cat_colums)
 
-# print(num_colums)
+print(num_colums)
 
-# ds = df['Name#'] = df['Name#'].str.lower().str.strip()
+ds = df['Name#'] = df['Name#'].str.lower().str.strip()
 
-# print(ds)
+
+print(ds)
