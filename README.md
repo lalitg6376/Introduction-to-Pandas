@@ -4,7 +4,7 @@ About the syllbus about pandas:-
 
 In this repository you will learn about the pandas working that how does pandas work with machine learning.
 I will take the pandas's syllabus on intermediate level. The syllabus will divided into units.
-The units may be 5 - 7.
+This repository has 5 units on pandas.
 you will learn about the data cleaning like:-
 1. Data Load Karna
 
