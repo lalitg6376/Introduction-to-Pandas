@@ -2,7 +2,7 @@
 In this repository you will learn about pandas library. pandas helps to data manipulation . In simple word we can that pandas helps to clean the data like Understand the data,Remove duplicates,mean,mode,median, Replacing Missing values and etc.
 About the syllbus about pandas:-
 
- 
+
 In this repository you will learn about the pandas working that how does pandas work with machine learning.
 I will take the pandas's syllabus on intermediate level. The syllabus will divided into units.
 This repository has 5 units on pandas.
