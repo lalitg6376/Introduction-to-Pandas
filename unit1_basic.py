@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+
 data = {
     "@Sr.no": [1,2,3,4,5,6,7,8,9,10],
     "Name#": ["LALIT","RINKU","RANHUL","sanjay","arjun","pankaj","ROHIT","praveen","aman","krishan"],
@@ -46,6 +47,7 @@ ds = df['Name#'] = df['Name#'].str.lower().str.strip()
 
 
 print(ds)
+
 
 
 
