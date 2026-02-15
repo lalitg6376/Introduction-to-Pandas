@@ -9,7 +9,6 @@ data = {
     "%Status": [None,"married","single","single",None,"married",None,"married","married",None],
     "Exp^rience": [1,None,3,4,5,6,None,None,900,10],
     
-
 }
 
 df = pd.DataFrame(data)
@@ -45,3 +44,4 @@ df = pd.DataFrame(data)
 # df.fillna(method='bfill',inplace=True)
 
 print("Drop Rows\n",df)
+
