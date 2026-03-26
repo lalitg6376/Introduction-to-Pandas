@@ -26,5 +26,4 @@ df.drop_duplicates(inplace=True)
 df['Name'] = df['Name'].fillna('unknown')
 scale = MinMaxScaler()
 df[['Age','Salary']] = scale.fit_transform(df[['Age','Salary']])
-
 print(df)
