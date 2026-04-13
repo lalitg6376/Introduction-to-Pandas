@@ -1,7 +1,7 @@
-import pandas as pd
+isimport pandas as pd
 import numpy as np
 
-# ---------------- UNIT 6 : REAL WORLD PANDAS PROJECT ----------------
+# ------------------ UNIT 6 : REAL WORLD PANDAS PROJECT ----------------
 
 # Sample employee dataset
 data = {
