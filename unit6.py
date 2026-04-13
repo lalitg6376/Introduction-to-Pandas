@@ -1,4 +1,4 @@
-isimport pandas as pd
+import pandas as pd
 import numpy as np
 
 # ------------------ UNIT 6 : REAL WORLD PANDAS PROJECT ----------------
