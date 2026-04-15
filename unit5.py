@@ -1,7 +1,7 @@
 import pandas as pd
 
 # ---------------- UNIT 5 : ADVANCED PANDAS ---------------
-# Sample data
+
 data = {
     "Date": pd.date_range(start="2024-01-01", periods=10, freq="D"),
     "Sales": [120, 150, 170, 160, 180, 200, 210, 190, 220, 230],
