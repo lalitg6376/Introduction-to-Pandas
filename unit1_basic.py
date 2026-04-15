@@ -43,4 +43,3 @@ print(cat_colums)
 print(num_colums)
 
 ds = df['Name#'] = df['Name#'].str.lower().str.strip()
-print(ds)
