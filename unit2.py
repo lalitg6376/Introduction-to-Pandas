@@ -29,7 +29,6 @@ df.dropna(axis=1,inplace=True)
 
 df.dropna(subset=['Age&'],inplace=True)
 
-##----------3. Replacing Missing values#----------
 
 df.fillna(0,inplace=True)
 
