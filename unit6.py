@@ -49,7 +49,7 @@ top_paid = df.sort_values(by="Salary", ascending=False).head(5)
 # ---------------- 7. Memory Optimization ----------------
 df["Department"] = df["Department"].astype("category")
 
-# ---------------- Output ----------------
+# ---------------- Output --------------
 print("Employee Data:\n", df)
 print("\nDepartment Summary:\n", dept_summary)
 print("\nDepartment Performance Score:\n", dept_performance)
