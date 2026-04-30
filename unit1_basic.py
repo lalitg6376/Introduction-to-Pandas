@@ -14,8 +14,8 @@ data = {
 }
 
 df = pd.DataFrame(data)
-
 #--------UNIT-1--------
+
 print(df.head())
 
 print(df.tail())
