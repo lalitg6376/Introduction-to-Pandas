@@ -12,7 +12,7 @@ In simple words, Pandas makes it easy to:
 * 💾 Save cleaned datasets
 * 🤖 Prepare data for Machine Learning
 
----
+----p
 
 # 📚 About the Syllabus
 
